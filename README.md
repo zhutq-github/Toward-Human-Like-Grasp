@@ -28,7 +28,7 @@ Installation process:
 
 
 ## News
-* Our initial research has been accepted by [ICCV2019](https://openaccess.thecvf.com/content/ICCV2021/html/Zhu_Toward_Human-Like_Grasp_Dexterous_Grasping_via_Semantic_Representation_of_Object-Hand_ICCV_2021_paper.html).
+* Our initial research has been accepted by [ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/html/Zhu_Toward_Human-Like_Grasp_Dexterous_Grasping_via_Semantic_Representation_of_Object-Hand_ICCV_2021_paper.html).
 * We have completed the real robot experiment, and the results will be published together with the new paper. 
 
 

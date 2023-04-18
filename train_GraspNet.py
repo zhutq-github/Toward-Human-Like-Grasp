@@ -158,8 +158,8 @@ class GraspnetConfig(Config):
     if specify_dataset:
         dataset_names = {
             # '索引': ['自定义或已生成的pkl文件名', use_seg_data值, object_label_dir值]
-            'train': ['data_for_barrett.pkl', use_seg_data, r'./datasets/function_area'],
-            'val': ['data_for_barrett.pkl', use_seg_data, r'./datasets/function_area'],
+            'train': ['data_for_barrett.pkl', use_seg_data, r'./datasets/functional_area'],
+            'val': ['data_for_barrett.pkl', use_seg_data, r'./datasets/functional_area'],
         }
     seed = 420  # It is not the optimal parameter, so parameter adjustment is required
 
